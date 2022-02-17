@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rao Awais
 - 👀 I’m interested in Spring Boot.
-- 🌱 I’m currently learning Spring Boot
+- 🌱 Spring Boot expert
 - 💞️ I’m looking to collaborate on in Spring Boot
 - 📫 How to reach me awaisjaved089@gmail.com
 
